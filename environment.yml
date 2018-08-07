@@ -4,6 +4,8 @@ channels:
 dependencies:
   - python
   - numpy
+  - scipy
+  - scikit-learn
   - pip:
     - nbgitpuller
     - sphinx-gallery
